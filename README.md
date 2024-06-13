@@ -1,5 +1,5 @@
 # Web-Scraping-
-Certainly! Here's a more detailed README with headings and logos:
+
 
 ---
 
